@@ -81,8 +81,8 @@ https://cobalt-change-ef5.notion.site/1a4e3049536a4411b45ddda708b4b916
 
     作業若使用C以外的語言，請附上README.txt，內容須包含程式執行環境、如何編譯以及如何執行，請詳細說明各個步驟。  
 * Bonus
-  1. `bonus.c` 50%
-    
+1. `bonus.c` 50%
+
     請撰寫以下函式實現對應功能：
     
     - **函式** `**combineList()**`
@@ -102,6 +102,6 @@ https://cobalt-change-ef5.notion.site/1a4e3049536a4411b45ddda708b4b916
     
     > 助教會檢查程式碼，請使用鏈結串列實作，若直接印出陣列內容及長度則程式碼部分0分。
     > 
-  2. `E12345678_XXX.pdf` 50%
+2. `E12345678_XXX.pdf` 50%
     
     報告內容需包含實現方法(至少150字)、心得(至少100字)。
