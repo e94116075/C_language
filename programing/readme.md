@@ -1,7 +1,7 @@
 # lab簡介
 C語言操作
 * lab02
-https://cobalt-change-ef5.notion.site/1a4e3049536a4411b45ddda708b4b916
+[https://cobalt-change-ef5.notion.site/1a4e3049536a4411b45ddda708b4b916](https://cobalt-change-ef5.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3fc41abc-bb0b-40e3-a6b7-69c0385e7287%2FmessageImage_1679927035836.jpeg?id=f258145e-f2ef-44b3-8158-cd74c7081fcb&table=block&spaceId=aa38f782-c4fa-4c08-a344-6e5629daca92&width=2000&userId=&cache=v2)
 * lab03
   -  1A2遊戲方式:出題者給定一組四位數為謎底，且這四個數字不重複。每猜一個數，出題者須做出`XAYB` 形式的提示，直至出題方說出4A0B時停止。其中，A代表數字對且位置對，B代表數字對但位置錯。
   - `hw3.c`
