@@ -3,7 +3,8 @@ C語言操作
 * lab02
 ![https://cobalt-change-ef5.notion.site/1a4e3049536a4411b45ddda708b4b916](https://cobalt-change-ef5.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3fc41abc-bb0b-40e3-a6b7-69c0385e7287%2FmessageImage_1679927035836.jpeg?id=f258145e-f2ef-44b3-8158-cd74c7081fcb&table=block&spaceId=aa38f782-c4fa-4c08-a344-6e5629daca92&width=2000&userId=&cache=v2)
 
-    ```💡 重點整理(只考慮角色池)
+    ```
+    💡 重點整理(只考慮角色池)
 
     - 不含保底
         - 五星角色抽中機率0.6%
