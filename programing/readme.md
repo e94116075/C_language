@@ -34,5 +34,52 @@ https://cobalt-change-ef5.notion.site/1a4e3049536a4411b45ddda708b4b916
   - E12345678_XXX.pdf    
     請詳細講解上述程式碼，內容需包含系統功能實現方法、延伸問題與討論
 * lab05
-  
+  1. `hw5.c`
+    
+    請撰寫程式，以陣列初始化100個以內的待排列的數值，實現selection sort 由大排到小。  
+    
+    題目沒有表達清楚，更新參考模板，同學可以直接用，完成selection_sort的函式即可。  
+    
+    ```c
+    #include <stdio.h>
+    
+    /* Print an array */
+    void print_arr(int arr[], int n) {
+        int i;
+        for (i = 0; i < n; i++)
+            printf("%d ", arr[i]);
+        printf("\n");
+    }
+    
+    /* selection sort */
+    void selection_sort(int arr[], int n) {
+        
+        /*
+         */
+    }
+    
+    int main(void) {
+        
+        int n = 8; // Array size
+        int arr[] = {16, 25, 39, 27, 12, 8, 45, 63}; // Array
+        
+        printf("Origin: ");
+        print_arr (arr, n);
+    
+        selection_sort(arr, n); // Call the function of selection sort
+        
+        printf("Result: ");
+        print_arr (arr, n);
+        
+        return 0;
+    }
+    ```
+    
+2. `E12345678_XXX.pdf`
+    
+    報告內容需包含實現方法(約150字)、心得(約100字)。  
+
+請將程式碼和報告檔案放在同一資料夾，壓縮後至Moodle繳交。  
+
+作業若使用C以外的語言，請附上README.txt，內容須包含程式執行環境、如何編譯以及如何執行，請詳細說明各個步驟。  
 * Bonus
